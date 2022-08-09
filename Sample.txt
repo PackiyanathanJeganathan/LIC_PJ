@@ -1,4 +1,4 @@
-This is Sample GIT
+﻿This is Sample GIT
 
 …or create a new repository on the command line
 echo "# LIC_PJ" >> README.md
@@ -17,3 +17,12 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 
 Steps to enable Token based autentication
+
+Steps to enable Token based autentication
+
+Steps to enable Token based autentication
+
+Steps to enable Token based autentication
+
+Steps to enable Token based autentication
+
