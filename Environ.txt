@@ -6,3 +6,10 @@ This is Environment GIT
 This is Environment GIT
 This is Environment GIT
 This is the first text to added in git repository
+This is the first text to added in git repository
+This is the first text to added in git repository
+This is the first text to added in git repository
+This is the first text to added in git repository
+This is the first text to added in git repository
+This is the first text to added in git repository
+This is the first text to added in git repository
